@@ -1,6 +1,6 @@
 # About Me
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/taylor-roberts-a0a788202/)">
+  <a href="https://www.linkedin.com/in/taylor-roberts-a0a788202/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
