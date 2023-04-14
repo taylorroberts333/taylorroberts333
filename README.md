@@ -21,7 +21,7 @@ My name is Taylor Roberts and I am graduating from Point Loma Nazarene Universit
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://www.ballseed.com/images/home_and_more2x.png" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://www.trackside.org/uploads/1/2/5/2/125224028/366764435_1.png" title="Git" **alt="Git" width="80" height="60"/>
 </div>
 
 ## The Surf Journal
