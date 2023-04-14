@@ -1,4 +1,6 @@
 # About Me
+My name is Taylor Roberts and I am graduating from Point Loma Nazarene University in May 2023 with a Bachelors in Computer Science: Software Engineering. Currently I am working for Chirotouch out of their San Diego office as an Associate Software Engineer Intern. This past year working I've gained invaluable experience and knowledge participating as a vital contributing team member. When I am not working or at school you can catch me in the water surfing at the break at Sunset Cliffs! Please take a look around my github page and my linkedin linked below!
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/taylor-roberts-a0a788202/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -23,7 +25,7 @@
 - currently under development
 https://user-images.githubusercontent.com/83095073/232139254-a606babf-3967-438a-a420-c94e724c6a1b.mov
 
-new features coming soon, including... 
+New features coming soon May 2023, including... 
 - map with location pins
 - new user interface
 - many more!
