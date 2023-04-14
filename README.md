@@ -1,7 +1,8 @@
-## About Me
+# About Me
+ <img src="[/uploadedImages/temp_photo_small.jpg](https://ibb.co/RPbV3Yz)"/>
 
-# Featured Projects
+## Featured Projects
 
-# Fun Facts
+## Fun Facts
 
-# Abriged Resume
+## Abriged Resume
