@@ -1,6 +1,6 @@
 # About Me
 <a href="https://ibb.co/RPbV3Yz"><img src="https://i.ibb.co/DkWS9z5/146A5735.jpg" alt="146A5735" border="0" width="300" 
-     height="440"></a><br /><a target='_blank' href='https://de.imgbb.com/'></a><br />
+     height="445"></a><br /><a target='_blank' href='https://de.imgbb.com/'></a><br />
 
 ## Featured Projects
 
