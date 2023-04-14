@@ -29,7 +29,3 @@ new features coming soon, including...
 - many more!
 
 #### <span style="color: red"> Checkout repository for more information! </span>
- 
-## Fun Facts
-
-## Abriged Resume
