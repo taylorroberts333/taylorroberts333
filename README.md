@@ -22,10 +22,12 @@ My name is Taylor Roberts and I am graduating from Point Loma Nazarene Universit
 </div>
 
 ## The Surf Journal
-- currently under development
+<b> Currently under development! </b>
+
 https://user-images.githubusercontent.com/83095073/232139254-a606babf-3967-438a-a420-c94e724c6a1b.mov
 
-New features coming soon May 2023, including... 
+
+New features coming soon <b> May 2023</b>, including... 
 - map with location pins
 - new user interface
 - many more!
