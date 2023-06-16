@@ -1,5 +1,5 @@
 # About Me
-My name is Taylor Roberts and I am graduating from Point Loma Nazarene University in May 2023 with a Bachelors in Computer Science: Software Engineering. Currently I am working for Chirotouch out of their San Diego office as an Associate Software Engineer Intern. This past year working I've gained invaluable experience and knowledge participating as a vital contributing team member. When I am not working or at school you can catch me in the water surfing at the break at Sunset Cliffs! Please take a look around my github page and my linkedin linked below!
+My name is Taylor Roberts and I graduated from Point Loma Nazarene University in May 2023 with a Bachelors in Computer Science: Software Engineering. Currently, I am working for Chirotouch out of their San Diego office as an Associate Software Engineer Intern. This past year working I've gained invaluable experience and knowledge participating as a vital contributing team member. When I am not working or at school, you can catch me in the water surfing at the break at Sunset Cliffs! Please take a look around my GitHub page and my LinkedIn linked below!
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/taylor-roberts-a0a788202/">
