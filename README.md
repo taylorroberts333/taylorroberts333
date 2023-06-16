@@ -27,10 +27,10 @@ My name is Taylor Roberts and I graduated from Point Loma Nazarene University in
 ## The Surf Journal
 <b> Currently under development! </b>
 
-https://user-images.githubusercontent.com/83095073/232139254-a606babf-3967-438a-a420-c94e724c6a1b.mov
+https://github.com/taylorroberts333/taylorroberts333/assets/83095073/f48a4533-a508-483b-94d5-f73d20aad494
 
 
-New features coming soon <b> May 2023</b>, including... 
+New features added <b> May 2023</b>, including... 
 - map with location pins
 - new user interface
 - many more!
