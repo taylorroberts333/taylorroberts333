@@ -12,6 +12,7 @@ My name is Taylor Roberts and I graduated from Point Loma Nazarene University in
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/taylorroberts333/icons/blob/main/autodesk-svgrepo-com.svg" title="AutoDesk" alt="AutoDesk" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/taylorroberts333/icons/blob/main/icons8-google-sketchup.svg" title="SketchUp" alt="SketchUp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg"  title="bitbucket" alt="bitbucket" width="40" height="40"/>&nbsp;
